@@ -16,7 +16,7 @@ Most of my work revolves around real-time systems, backend architecture, and des
 
 ## Selected Projects
 
-### SkillTrack  
+### 🛡️ SkillTrack  
 Sandboxed coding platform for executing untrusted code  
 🔗 [Live](https://skilltrack-delta.vercel.app/) | [Code](https://github.com/Jashan1001/skilltrack)
 
@@ -26,7 +26,7 @@ Sandboxed coding platform for executing untrusted code
 
 ---
 
-### CartCrew  
+### 🌐 CartCrew  
 Real-time collaborative platform  
 🔗 [Live](https://cart-crew.vercel.app/) | [Code](https://github.com/Jashan1001/shop-with-friends)
 
@@ -36,7 +36,7 @@ Real-time collaborative platform
 
 ---
 
-### DocuVerify  
+### 🧾 DocuVerify  
 Multi-tenant document verification system  
 🔗 [Live](https://docuverify-platform.vercel.app/) | [Code](https://github.com/Jashan1001/docuverify-full-stack)
 
@@ -46,7 +46,7 @@ Multi-tenant document verification system
 
 ---
 
-### Other Work
+### 🔬 Other Work
 
 I also build smaller systems and experiments — usually focused on one hard problem at a time.
 
@@ -57,7 +57,7 @@ Themes I keep coming back to:
 
 ---
 
-## How I think about systems
+## 🧭 How I think about systems
 
 - Fail-safe defaults over optimistic assumptions  
 - Isolate untrusted execution paths  
